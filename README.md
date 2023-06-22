@@ -1,4 +1,6 @@
-![C Programming Language](C.png)
+<p align="center">
+  <img src="C.png" alt="C Programming Language">
+</p>
 
 # Repositório de Atividades em C
 
