@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-A",
+      "appliesTo": "Capítulo 5/A.c",
+      "type": "launch"
+    }
+  ]
+}
